@@ -23,13 +23,13 @@
   
  <p align="center"><img src="https://github.com/Ashish2030/FICO-SDE-ROLE-SOLUTION-IN-2021-FOR-BATCH-2022/blob/master/Assests/Email_2%20(2).png"/> 
  
- 
+   <h1 align="center">𝐄-𝐦𝐚𝐢𝐥</h1>
+  <p align="center"><img src="https://github.com/Ashish2030/FICO-SDE-ROLE-SOLUTION-IN-2021-FOR-BATCH-2022/blob/master/Assests/Main.png"/> 
   <h1 align="center">𝐓𝐞𝐬𝐭 𝐑𝐞𝐬𝐮𝐥𝐭</h1>
   
  <p align="center"><img src="https://github.com/Ashish2030/FICO-SDE-ROLE-SOLUTION-IN-2021-FOR-BATCH-2022/blob/master/Assests/MyTest.jpeg"/> 
 
   
- 
   
  <p align="center"><img src="https://github.com/Ashish2030/FICO-SDE-ROLE-SOLUTION-IN-2021-FOR-BATCH-2022/blob/master/Assests/Email_1%20(1).png"/> 
   <h1 align="center">𝐓𝐢𝐩𝐬</h1>
