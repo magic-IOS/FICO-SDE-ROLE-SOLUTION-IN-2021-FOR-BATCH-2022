@@ -29,9 +29,11 @@
  <p align="center"><img src="https://github.com/Ashish2030/FICO-SDE-ROLE-SOLUTION-IN-2021-FOR-BATCH-2022/blob/master/Assests/MyTest.jpeg"/> 
 
   
-  <h1 align="center"> 𝐄-𝐌𝐚𝐢𝐥</h1>
+ 
   
  <p align="center"><img src="https://github.com/Ashish2030/FICO-SDE-ROLE-SOLUTION-IN-2021-FOR-BATCH-2022/blob/master/Assests/Email_1%20(1).png"/> 
+  <h1 align="center">𝐓𝐢𝐩𝐬</h1>
+<p align="center">Focus on Coding Round If you will able to clear its 1'st Round than chances of getting Placed in this company is very High with a Decent Package(6-8LPA)</p>
    
    <p align="center">
     <a href="https://www.fico.com/en/about-us" target="blank">View Demo</a>
